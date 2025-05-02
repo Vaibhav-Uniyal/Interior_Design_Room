@@ -1,10 +1,5 @@
-Sure! Here's a well-structured *README* for your *AI-Powered Interior Design Project using GANs and Computer Vision*:
-
----
-
 # 🏠 AI-Powered Interior Design Generator using GANs
 
-> "Reimagining spaces through AI: Creative, Cost-Effective, Customizable."
 
 ## 📌 Project Overview
 
