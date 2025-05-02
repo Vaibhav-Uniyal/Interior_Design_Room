@@ -26,7 +26,7 @@ This project leverages *Generative Adversarial Networks (GANs)* and *Computer Vi
 ## 📚 Technologies Used
 
 * *Python*
-* *TensorFlow / PyTorch*
+* *PyTorch*
 * *StyleGAN / AttnGAN*
 * *OpenCV / PIL*
 * *Streamlit* (for interface)
@@ -41,16 +41,16 @@ This project leverages *Generative Adversarial Networks (GANs)* and *Computer Vi
 2. *Preprocessing*: Resize, normalize, and prepare input
 3. *GAN Training*: Train on dataset of annotated room layouts
 4. *Generation*: Use generator model to create interior designs
-5. *Evaluation*: Realism scored via FID & user feedback
+5. *Evaluation*: Realism scored via FID, Inception Score & user feedback
 6. *Deployment*: Simple UI using Streamlit
 
 ---
 
 ## 📂 Dataset
 
-* *Source*: MIT Indoor Scenes Dataset, IKEA Room Layouts, and Custom Curated Sets
-* *Size*: 10,000+ high-quality labeled interior images
-* *Annotations*: Room type, furniture, style tags
+* *Source*: LSUN bedroom scene 20% sample
+* *Size*: 303125 jpgs containing bedroom scenes
+* *Annotations*: Furniture
 
 ---
 
@@ -107,19 +107,27 @@ This project leverages *Generative Adversarial Networks (GANs)* and *Computer Vi
 
 ## 🤝 Contributors
 
+* Vaibhav Uniyal
+* Sharry Dhiman 
 * Vidisha Sharma
-* \[Add team member names]
+* Tanishq Jain
 
+  
 ---
 
 ## 📬 Contact
 
 For any questions or collaborations:
-📧 [vidisha.sharma@example.com](mailto:vidisha.sharma@example.com)
+* 📧 [vaibhavuniyal10@gmail.com](mailto:vaibhavuniyal10@gmail.com)
+🔗 \[www.linkedin.com/in/vaibhavuniyal10]
+
+* 📧 [sharry@example.com](mailto:vidisha.sharma@example.com)
+🔗 \[LinkedIn Profile]
+
+* 📧 [vidisha@example.com](mailto:vidisha.sharma@example.com)
+🔗 \[LinkedIn Profile]
+
+* 📧 [tanishq@example.com](mailto:vidisha.sharma@example.com)
 🔗 \[LinkedIn Profile]
 
 ---
-
-Would you like me to convert this into a Markdown (README.md) file?
-
-CV GANS VALE PROJ MEI README UPDATE KRDE
